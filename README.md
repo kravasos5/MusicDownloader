@@ -36,11 +36,13 @@
 --- 
 
 # Последние штрихи <a id="configuration"></a>
+
 Для работы необходимо занести ссылки на ютуб плейлисты в файлы `single_song_urls.txt` и `urls.txt`.
 Эти файлы должны находиться в директории `...\MusicDownloader\dest`.
 ---
 
 # Пример <a id="example"></a>
+
 Занесём в файл `...\MusicDownloader\dest\single_song_urls.txt` несколько ссылок.
 Должно быть примерно так:
 
