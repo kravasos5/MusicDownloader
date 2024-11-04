@@ -15,6 +15,7 @@
     Или `source venv/bin/activate` для Linux и MacOS.
 3. `pip install -r requirements.txt`
 4. В корне создать **.env** файл с настройками, например:
+
 ```
       SONG_FORMAT=mp3
       YDL_FORMAT=bestaudio/best
@@ -39,6 +40,7 @@
 
 Для работы необходимо занести ссылки на ютуб плейлисты в файлы `single_song_urls.txt` и `urls.txt`.
 Эти файлы должны находиться в директории `...\MusicDownloader\dest`.
+
 ---
 
 # Пример <a id="example"></a>
